@@ -5,7 +5,8 @@ We will analyse the Citi Bike data for the month of August, 2019 to visualize th
 
 ## Results
 **Using the visualizations you have in your Tab describe the results of each visualization underneeath the image.**
-[!Checkout Times for users](!https://public.tableau.com/authoring/NYCCitibikeAnalysis_16375493949790/CheckoutTimesforUsers#1)
+
+[Checkout Times for users](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16375493949790/CheckoutTimesforUsers#1)
 
 As we can see from the grph above the highet checkout time is within 20 minutes. This determines that people using the bikes for 20 minutes once they use it.
 
@@ -13,7 +14,7 @@ As we can see from the grph above the highet checkout time is within 20 minutes.
 
 We can conclude that all genders use the bikes the same time length, howver the male gender have the highest number of using the bikes.
 
-[!https://public.tableau.com/authoring/NYCCitibikeAnalysis_16375493949790/CheckoutTimesforUsers#1](!https://public.tableau.com/authoring/NYCCitibikeAnalysis_16375493949790/CheckoutTimesforUsers#1)
+[Trips by Weekday per Hour](https://public.tableau.com/authoring/NYCCitibikeAnalysis_16375493949790/TripsbyWeekdayperHour#1)
 
 During the weekdays the trips taken by the people are the most around 8am-9am and 5pm-6pm. This behavior is becasuse of the "rush hours" where people after using the trains to get to NYC they find it more convinient to use the bikes to move around NYC. However, the number of trips during the weekend is distributed almost equivalent during the day after 11am.
 
